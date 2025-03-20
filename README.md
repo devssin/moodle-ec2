@@ -123,6 +123,10 @@ sudo systemctl restart httpd    # Amazon Linux
 sudo systemctl restart apache2  # Ubuntu/Debian
 ```
 
+Now, open http://your-public-ip/moodle in a browser and follow the instructions
+
+
+
 
 
 
